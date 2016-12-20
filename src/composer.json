@@ -1,0 +1,17 @@
+{
+    "name": "shawn/toastr-for-laravel",
+    "description": "toastr package for laravel",
+    "authors": [
+        {
+            "name": "Shawn",
+            "email": "shawnzhang31@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shawn\\Toastr\\":"src/"
+        }
+    }
+}
